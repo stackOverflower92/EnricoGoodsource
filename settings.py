@@ -123,5 +123,6 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 # Media files
+
 MEDIA_ROOT = "E:/stack_overflower/Documents/Dev/Workspaces/PyCharm/Django/EnricoGoodsource/website/media"
 MEDIA_URL = "/media/"
